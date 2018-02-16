@@ -1,3 +1,7 @@
 .idea
 /input
 /output*
+*.iml
+build
+out
+target
